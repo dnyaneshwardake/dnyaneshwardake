@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dnyaneshwardake
-- 👀 I’m interested in Learnins
+- 👀 I’m interested in Learnings
 - 🌱 I’m currently learning K8S, Docker, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact@dnaneshwardake.com
